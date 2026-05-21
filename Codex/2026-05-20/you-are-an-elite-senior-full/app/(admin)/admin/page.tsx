@@ -1,0 +1,1 @@
+﻿export default async function AdminPage(){return <div><h1 className="text-3xl">Analytics Dashboard</h1><div className="mt-5 grid gap-4 sm:grid-cols-3"><div className="rounded-xl border border-white/10 p-4">Sales</div><div className="rounded-xl border border-white/10 p-4">Orders</div><div className="rounded-xl border border-white/10 p-4">Customers</div></div></div>;}
